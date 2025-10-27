@@ -1,0 +1,54 @@
+{
+  "exported_at": "2025-01-27T00:00:00.000Z",
+  "exported_by": "henryquinones101@gmail.com",
+  "app_name": "Jizoni Project",
+  "entities": {
+    "projects": [
+      {
+        "id": "68e10d9dd92204b8655025a5",
+        "name": "Sub Sea Cable Replacement",
+        "description": "Full replacement of the 20km sub-sea power cable between Platform Alpha and Shore Station Bravo. Includes engineering, procurement, installation, and commissioning phases.",
+        "project_type": "infrastructure",
+        "start_date": "2024-08-01",
+        "end_date": "2025-03-30",
+        "budget": 25000000.0,
+        "status": "planning",
+        "priority": "critical",
+        "completion_percentage": 5.0,
+        "team_size": 1
+      }
+    ],
+    "tasks": [],
+    "resources": [
+      {
+        "id": "6859cfb6d9b955a201f841bc",
+        "name": "Sarah Johnson",
+        "type": "person",
+        "email": "sarah.johnson.48@company.com",
+        "role": "Project Manager",
+        "max_units": 100.0,
+        "standard_rate": 85.0
+      },
+      {
+        "id": "6859cfb6d9b955a201f841bd",
+        "name": "Mike Chen",
+        "type": "person",
+        "email": "mike.chen.324@company.com",
+        "role": "Project Manager",
+        "max_units": 100.0,
+        "standard_rate": 80.0
+      }
+    ],
+    "baselines": [],
+    "calendars": [],
+    "task_relationships": [],
+    "resource_assignments": [],
+    "comments": []
+  },
+  "summary": {
+    "total_projects": 6,
+    "total_tasks": 107,
+    "total_resources": 6,
+    "total_baselines": 2
+  }
+}
