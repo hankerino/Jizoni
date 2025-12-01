@@ -1,6 +1,6 @@
 # Jizoni
 #[
-](https://github.com/hankerino/Jizoni/)
+](https://jizoni-project-a564c053.base44.app/)
 
 import React, { useState, useEffect } from "react";
 import { Project } from "@/entities/Project";
