@@ -1,6 +1,5 @@
 # Jizoni
-#[
-](https://roadmap.sh/projects/task-tracker)
+#(https://roadmap.sh/projects/task-tracker)
 
 import React, { useState, useEffect } from "react";
 import { Project } from "@/entities/Project";
