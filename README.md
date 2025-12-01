@@ -1,4 +1,6 @@
 # Jizoni
+#[
+](https://github.com/hankerino/Jizoni/)
 
 import React, { useState, useEffect } from "react";
 import { Project } from "@/entities/Project";
